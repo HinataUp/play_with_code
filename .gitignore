@@ -549,3 +549,8 @@ Temporary Items
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualbasic,rider,csharp
+/.idea/.idea.play_with_code.dir/.idea/encodings.xml
+/.idea/.idea.play_with_code.dir/.idea/indexLayout.xml
+/.idea/.idea.play_with_code.dir/.idea/projectSettingsUpdater.xml
+/.idea/.idea.play_with_code.dir/.idea/vcs.xml
+/.idea/.idea.play_with_code.dir/.idea/.gitignore
