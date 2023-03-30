@@ -7,4 +7,19 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="algorithm\binary_search" />
+      <Folder Include="algorithm\dp" />
+      <Folder Include="algorithm\graph" />
+      <Folder Include="algorithm\greedy" />
+      <Folder Include="algorithm\recursive_partition" />
+      <Folder Include="algorithm\search" />
+      <Folder Include="algorithm\sliding_2pointer" />
+      <Folder Include="algorithm\sort" />
+      <Folder Include="data_structure\hash" />
+      <Folder Include="data_structure\list" />
+      <Folder Include="data_structure\queue" />
+      <Folder Include="data_structure\stack" />
+    </ItemGroup>
+
 </Project>
